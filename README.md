@@ -1,4 +1,5 @@
 # capstone
+Demo: https://r-food-ordering-app.netlify.app/ \
 Front End: https://github.com/bondrerevati/food-ordering-app \
 Back End: https://github.com/bondrerevati/food-ordering-app-backend
 
